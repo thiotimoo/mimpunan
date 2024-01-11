@@ -1,0 +1,11 @@
+x = scr_snap_to_grid(x, 20)+10;
+y = scr_snap_to_grid(y, 20)+10;
+depth = -y
+alarm[0] = room_speed * 1.5
+image_xscale = 0;
+image_yscale = 0;
+alarm[1] = 5
+following = true;
+child = false;
+spd = 0.01
+vol = 1;

@@ -1,0 +1,1 @@
+text_id = "atas depan sekolah"

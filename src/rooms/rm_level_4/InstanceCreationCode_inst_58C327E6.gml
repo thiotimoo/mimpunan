@@ -1,0 +1,1 @@
+global.moveType = 1;

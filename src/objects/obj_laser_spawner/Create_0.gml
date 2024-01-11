@@ -1,0 +1,13 @@
+x = scr_snap_to_grid(x, 20);
+y = scr_snap_to_grid(y, 20);
+depth = -y
+alarm[0] = room_speed * 1.5
+image_blend = c_yellow
+vertical = true;
+_x1 = x
+_x2 = x + 20
+_y1 = 0
+_y2 = room_height
+vanish = false;
+alarm[1] = 5
+_xminus = 0

@@ -1,0 +1,1 @@
+audio_play_sound(snd_lightning,10, false,vol * global.vol_sfx)
