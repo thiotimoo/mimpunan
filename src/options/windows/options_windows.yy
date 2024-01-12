@@ -4,7 +4,7 @@
   "name": "Windows",
   "option_windows_display_name": "mimPUNAN",
   "option_windows_executable_name": "${project_name}.exe",
-  "option_windows_version": "1.4.0.0",
+  "option_windows_version": "1.5.0.0",
   "option_windows_company_info": "Keidowisu",
   "option_windows_product_info": "mimPUNAN",
   "option_windows_copyright_info": "",
